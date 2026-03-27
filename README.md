@@ -79,7 +79,7 @@ Full-Stack Developer with **1.5+ years** of professional experience across **Whi
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kunaldasx&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
+![Trophies](https://github-trophies.vercel.app/?username=kunaldasx&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=-1)
 
 </div>
 
@@ -89,11 +89,11 @@ Full-Stack Developer with **1.5+ years** of professional experience across **Whi
 
 <div align="center">
 
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunaldasx&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Kunal's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=kunaldasx&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=kunaldasx&theme=dark&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com/?user=kunaldasx&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldasx&theme=dark&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kunaldasx&theme=dark&hide_border=true&layout=compact)
 
 </div>
 
