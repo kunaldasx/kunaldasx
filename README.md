@@ -75,6 +75,16 @@ Full-Stack Developer with **1.5+ years** of professional experience across **Whi
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kunaldasx&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
