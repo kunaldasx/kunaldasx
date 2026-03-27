@@ -73,6 +73,7 @@ Full-Stack Developer with **1.5+ years** of professional experience across **Whi
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
+<!--
 ---
 
 ## 🏆 Trophies
@@ -84,14 +85,17 @@ Full-Stack Developer with **1.5+ years** of professional experience across **Whi
 </div>
 
 ---
+-->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
+<!--
 ![Kunal's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=kunaldasx&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=kunaldasx&theme=dark&hide_border=true)
+-->
 
 ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kunaldasx&theme=dark&hide_border=true&layout=compact)
 
