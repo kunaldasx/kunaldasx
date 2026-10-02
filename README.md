@@ -1,6 +1,6 @@
 # Hi, I'm Kunal.
 
-I'm a Full-Stack Developer, focused on thoughtful design and building reliable, maintainable software in production.
+I'm a Software Engineer, focused on thoughtful design and building reliable, maintainable software in production.
 
 Currently, I work on production applications and freelance projects, with a focus on real-time systems, AI integrations, and scalable backend services.
 
