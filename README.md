@@ -10,4 +10,4 @@ reading about software architecture, or exploring emerging technologies.
 ---
 
 - Portfolio: [kunaldasx.vercel.app](https://kunaldasx.vercel.app)
-- Resume: [linkedin.com/in/kunaldasx](https://linkedin.com/in/kunaldasx)
+- Resume: [Google Drive](https://drive.google.com/file/d/1tlgII7tdEJsaLKM5PY-hFmSTAUop_wHY/view?usp=sharing)
